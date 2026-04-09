@@ -102,7 +102,7 @@ docker run --name acme-pedido-service -p 8080:8080 acme-app
 
 ## Pruebas
 
-Puedes probar el endpoint REST con:
+Probar el endpoint REST con:
 
 * Postman
 * Bruno
