@@ -8,6 +8,14 @@ Inicialmente se intentó consumir un endpoint externo en Mocky, pero este retorn
 
 ---
 
+## Versiones de lenguaje/Frameworks/SDK usadas
+
+* **Java**: Temurin JDK 21
+* **Springboot**: 3.5.13
+* **Maven**: 3.9.14
+
+---
+
 ## Flujo de la solución
 
 1. Cliente envía petición REST (JSON)
