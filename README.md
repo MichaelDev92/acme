@@ -84,6 +84,8 @@ Se creó el respectivo Dockerfile para construir la imagen y se pueda ejecutar l
 
 ## Comandos Docker a Ejecutar
 
+Clonar proyecto y en la carpeta raíz del mismo ejecutar los siguientes comandos. 
+
 ### Crear la imagen
 
 ```bash
